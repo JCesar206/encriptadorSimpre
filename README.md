@@ -1,5 +1,5 @@
 # encriptadorSimple
-Encriptador sencillo de texto
+# Encriptador sencillo de texto
 
 Sencillo encriptador de texto.
 Toma las vocales y consonantes del abecedario ingles y las convierte en una palabra.
